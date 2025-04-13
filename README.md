@@ -26,7 +26,7 @@ Esta es una aplicación simple construida con **FastAPI** para gestionar una lis
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/Perezcortes/perezcortes-aplicacion-con-fastapi.git
+    git clone https://github.com/Perezcortes/Aplicacion-con-FastApi.git
     cd perezcortes-aplicacion-con-fastapi
     ```
 
