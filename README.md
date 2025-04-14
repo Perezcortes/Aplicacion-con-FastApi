@@ -1,7 +1,10 @@
 
-# Aplicación con FastAPI - Gestión de Películas
+# 🚀 Aplicación con FastAPI - Gestión de Películas
 
-Esta es una aplicación simple construida con **FastAPI** para gestionar una lista de películas. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los datos de películas como título, descripción, año, calificación y categoría.
+<p align="center">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="300">
+</p>
+
 
 ## Características
 
